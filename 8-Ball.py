@@ -1,5 +1,3 @@
-# I've made another change
-
 # Import the modules
 import sys
 import random
