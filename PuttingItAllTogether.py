@@ -6,4 +6,4 @@ with urlopen('http://sixty-north.com/c/t.txt') as story:
         for word in line_words:
             story_words.append(word)
 
-story_words
+print(b[story_words])
